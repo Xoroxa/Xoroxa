@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 <!--
 **Xoroxa/Xoroxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Xoroxa&theme=radical&cache=busted&layout=compact&count_private=true" >
+<img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoroxa&layout=compact&theme=radical&count_private=true" >
